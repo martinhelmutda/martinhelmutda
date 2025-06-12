@@ -1,6 +1,6 @@
 # 👋 Hello, I’m Martin Helmut Dominguez
 
-I'm a full-stack software engineer, entrepreneur, and beverage enthusiast ☕ based in Mexico.
+I'm a full-stack software engineer, coffee and tea enthusiast ☕ based in Mexico.
 
 ---
 
@@ -18,12 +18,6 @@ I'm a full-stack software engineer, entrepreneur, and beverage enthusiast ☕ ba
 
 ---
 
-## ☕ On the Side
-
-I'm a fan of slow mornings, great coffee, and thoughtful tea. I enjoy experimenting with brewing methods — from pour-overs and espresso to gyokuro and cold-brewed pu-erh.
-
----
-
 ## 📍 Always Exploring
 
 I’m that friend people ask for restaurant tips — because I’m always hunting for new cafés, bakeries, hidden gems, and unforgettable meals. I believe every place tells a story, and I love collecting them.
@@ -32,7 +26,7 @@ I’m that friend people ask for restaurant tips — because I’m always huntin
 
 ## 📚 Curious by Nature
 
-From design systems and code languages to behavioral science and architecture, I enjoy diving into all kinds of topics — just for the joy of learning.
+From design systems and code to behavioral science and architecture, I enjoy diving into all kinds of topics — just for the joy of learning.
 
 ---
 
