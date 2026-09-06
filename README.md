@@ -1,6 +1,6 @@
 # 👋 Hello, I’m Martin Helmut Dominguez
 
-I'm a full-stack software engineer, coffee and tea enthusiast ☕ based in Mexico.
+I'm a full-stack software engineer, coffee and tea enthusiast.
 
 ---
 
